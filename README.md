@@ -1,21 +1,31 @@
 # 用案例程序演示大模型的能力
 
-## 1.通过代理访问 openAi
+## 0. python入门
 
-## 2.访问本地部署的 chatglm3-6b 
+## 1. 调用openai接口，实现对话、函数调用、了解词嵌入和token计数
 
-## 3.访问远程的chatglm4 多模态大模型
+## 2. 介绍向量数据库，重点介绍faiss 、chromadb
 
-## 4.使用langchain框架
+## 3. 介绍openai-translator项目，实现了一个pdf文件的翻译器
 
-## 5.AutoGpt去完成任务
+## 4. 介绍langchain框架
 
-## 6.基于向量数据库本地知识库问答
+## 5. 介绍autogpt
 
-## 8.huggingface介绍
+## 6. 国产大模型
 
-### 8.1 pipeline , 基于大模型构建数字人
+### 本地部署chatglm3-6b 
 
-### 8.2 transformers包
+### 远程调用chatglm4 多模态大模型
 
-### 8.3 模型微调peft
+## 7. 大模型仓库
+
+### huggingface介绍
+
+### pipeline , 基于大模型构建数字人
+
+## 8. 大模型微调
+
+### transformers
+
+### peft 、 lora
