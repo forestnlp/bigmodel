@@ -1,0 +1,2 @@
+Upload PDF file,Source Language,Target Language,Output Format,Model Type ,Translated File,flag,username,timestamp
+"{""path"":""flagged\\Upload PDF file\\73c351ed5b347f33712c\\test.pdf"",""url"":""http://127.0.0.1:7860/file=C:\\Users\\user\\AppData\\Local\\Temp\\gradio\\c5cc0131c29f7114f857f35f80acee041c1a4374\\test.pdf"",""size"":1560738,""orig_name"":""test.pdf"",""mime_type"":"""",""is_stream"":false}",英文,鲁迅风格的中文,markdown,OpenAIModel,,,,2024-02-24 17:08:12.574649
