@@ -10,22 +10,10 @@
 
 ## 4. 介绍langchain框架
 
-## 5. 介绍autogpt
+## 5. 介绍销售问答
 
-## 6. 国产大模型
-
-### 本地部署chatglm3-6b 
-
-### 远程调用chatglm4 多模态大模型
-
-## 7. 大模型仓库
+## 6. 大模型仓库
 
 ### huggingface介绍
 
 ### pipeline , 基于大模型构建数字人
-
-## 8. 大模型微调
-
-### transformers
-
-### peft 、 lora
